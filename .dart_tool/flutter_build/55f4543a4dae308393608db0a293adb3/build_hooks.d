@@ -1,0 +1,1 @@
+ C:\\Users\\gadva\\anchor\\.dart_tool\\flutter_build\\55f4543a4dae308393608db0a293adb3\\build_hooks_result.json:  C:\\Users\\gadva\\anchor\\.dart_tool\\package_config.json C:\\Users\\gadva\\anchor\\pubspec.yaml C:\\Users\\gadva\\flutter\\bin\\cache\\dart-sdk\\version c:\\users\\gadva\\anchor\\.dart_tool\\package_config.json
